@@ -1,0 +1,48 @@
+#output {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: blue;
+    margin-top: 20px;
+  }
+
+  body {
+    background-color: #f2f2f2; /* sets the background color to light gray */
+    background-image: url('background-image.jpg'); /* sets a background image */
+    background-repeat: no-repeat; /* prevents the image from repeating */
+    background-size: cover; /* scales the image to cover the entire background */
+  }
+
+  body {
+    font-family: Arial, sans-serif; /* sets the font family to Arial or a sans-serif font */
+    font-size: 16px; /* sets the font size to 16 pixels */
+    color: #333; /* sets the text color to dark gray */
+  }
+  
+  h1 {
+    font-size: 24px; /* sets the font size for h1 headings to 24 pixels */
+    font-weight: bold; /* sets the font weight for h1 headings to bold */
+  }
+  
+  p {
+    line-height: 1.5; /* sets the line height for paragraphs to 1.5 times the font size */
+  }
+
+  .container {
+    max-width: 800px; /* sets the maximum width of the container to 800 pixels */
+    margin: 0 auto; /* centers the container horizontally */
+    padding: 20px; /* adds 20 pixels of padding to the container */
+    border: 1px solid #ccc; /* adds a 1-pixel border to the container */
+  }
+  
+  .btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
